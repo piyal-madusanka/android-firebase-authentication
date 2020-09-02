@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">FirebaseAuth</string>
+    <string name="registration">Registration</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="enter_email1" tools:ignore="DuplicateDefinition">Enter Email</string>
+    <string name="enter_password1" tools:ignore="DuplicateDefinition">Enter Password</string>
+    <string name="register">Register</string>
+    <string name="allready_have_an_account_log_in_here">Allready have an account ? log in here</string>
+    <string name="login_here">Login Here</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="dont_have_an_account_create_new_account">dont have an account ? create new account</string>
+    <string name="welcome_to_dashboard">Welcome to dashboard</string>
+    <string name="log_out">Log Out</string>
+</resources>
